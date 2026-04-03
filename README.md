@@ -18,7 +18,7 @@ Use OpenAI-compatible APIs, Gemini, GitHub Models, Codex, Ollama, Atomic Chat, a
 ### Install
 
 ```bash
-npm install -g @gitlawb/openclaude
+npm install -g @aadhi000/openclaude
 ```
 
 If the npm install path later reports `ripgrep not found`, install ripgrep system-wide and confirm `rg --version` works in the same terminal before starting OpenClaude.
